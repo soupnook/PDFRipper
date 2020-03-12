@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 13 15:11:35 2020
 
-@author: d.krishna
+@author: soupnook
 """
 
 import pytesseract
